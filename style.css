@@ -1,0 +1,54 @@
+body {
+
+    background-color: rgb(0, 0, 0);
+    min-height: 85vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+form {
+
+    background-color: rgb(143, 131, 25);
+    padding: 20px;
+    border-radius: 1rem;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+.label1 {
+
+    padding-left: 140px;
+}
+
+
+.label2 {
+
+    padding-left: 140px;
+}
+
+input {
+
+    margin-top: 10px;
+    padding: 6px;
+    border-radius: 0.50rem;
+}
+
+.btnres {
+
+    margin-top: 16px;
+    padding-left: 96px;
+}
+
+button {
+
+    padding: 6px;
+}
+
+.result {
+
+    padding-left: 40px;
+}
