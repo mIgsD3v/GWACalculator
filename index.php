@@ -8,7 +8,7 @@ include 'includes/gwa.inc.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>GWA Calculator</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,8 +16,8 @@ include 'includes/gwa.inc.php';
     <form method="post">
         <h1>GWA Calculator</h1>
 
-        <span class="label1">Unit</span>
-        <span class="label2">Grade</span>
+        <span class="label1">Units</span>
+        <span class="label2">Grades</span>
         <div>
         <span>Subject 1:</span>
             <input type="text" name="unit1" value="<?php echo $unit1; ?>" placeholder="input unit">
